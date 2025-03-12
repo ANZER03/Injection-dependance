@@ -1,5 +1,8 @@
 package ma.enset.doa;
 
+import org.springframework.stereotype.Component;
+
+@Component("d1")
 public class Doa implements IDoa {
     @Override
     public double getData() {

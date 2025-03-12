@@ -2,6 +2,7 @@ package ma.enset.pres;
 
 import ma.enset.doa.Doa;
 import ma.enset.doa.IDoa;
+import ma.enset.ext.DoaV2;
 import ma.enset.metier.IMetier;
 import ma.enset.metier.MetierImpl;
 
